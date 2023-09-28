@@ -1,0 +1,21 @@
+death node.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.8
+c1
+bounds:2,286,145,164
+offsets:0,0,149,164
+c2
+bounds:2,140,131,144
+offsets:3,1,134,145
+c3
+bounds:149,332,94,118
+offsets:5,0,105,118
+shadow
+bounds:2,2,136,71
+offsets:10,4,152,89
+rotate:90
+shadow2
+bounds:245,401,75,49
+offsets:40,16,152,89

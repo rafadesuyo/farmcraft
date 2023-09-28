@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1be860303e2bda4d9c9188e62e4797d, type: 3}
+  m_Name: Achievement_Mentor
+  m_EditorClassIdentifier: 
+  id: Mentor
+  description: Upgrade 9 collectibles to level 4.
+  icon: {fileID: 21300000, guid: ea0050d9d5b02e8429b595142cced067, type: 3}
+  negativeIcon: {fileID: 21300000, guid: 508b20e478d4f564ba23b9a4d5830205, type: 3}
+  targetValue: 4
+  progressNeeded: 9
+  eventToListen: onLevelUpCollectible
+  rewardType: 1
+  rewardValue: 10
+  goldRewardValue: 50

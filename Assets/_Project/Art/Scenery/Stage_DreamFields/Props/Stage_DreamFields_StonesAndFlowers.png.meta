@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: e781281f35ff49248beab3743dfabec5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_0
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 917
+        width: 136
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c057e6f91f87814ca3574b5abd52825
+      internalID: 1598661935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_2
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 904
+        width: 122
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ad9e540777a6d47919b04c4c79e34b
+      internalID: 1876019180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 793
+        width: 335
+        height: 212
+      alignment: 9
+      pivot: {x: 0.48696762, y: 0.3455485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec039e5b1c39784199655038e7f2faa
+      internalID: -1771808401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 856
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06298d7d1a2d448a551f7e6e01bf61
+      internalID: 546423049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 532
+        width: 365
+        height: 368
+      alignment: 9
+      pivot: {x: 0.55659884, y: 0.27840507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743134f81cce1f541a9c09793fe1675e
+      internalID: -1000647324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_19
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 717
+        width: 246
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5281809, y: 0.40991104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec445c762a039fe438ff6257e38261e1
+      internalID: 960075301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_26
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 496
+        width: 194
+        height: 361
+      alignment: 9
+      pivot: {x: 0.54400384, y: 0.20326926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b3be86146454147a98f5dddcd5cbdc
+      internalID: 1962723417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_30
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 513
+        width: 347
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28660396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44af0baf25d5854c9277a97f6671053
+      internalID: -599432160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_33
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 552
+        width: 145
+        height: 137
+      alignment: 9
+      pivot: {x: 0.6172422, y: 0.46323368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8605a1e8efdc94299cf08898383f6c
+      internalID: -1030024874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 399
+        width: 71
+        height: 172
+      alignment: 9
+      pivot: {x: 0.12640773, y: 0.040780712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e43ba19e318504db54d241313ed300
+      internalID: 1877890677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_38
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 279
+        width: 190
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5033142, y: 0.12272382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700f8ec4ebc3b6245bd4e503d719c27e
+      internalID: 1116310393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_39
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 178
+        width: 324
+        height: 287
+      alignment: 9
+      pivot: {x: 0.48068577, y: 0.23834775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1488abc5f90617943a4924bedb1660ef
+      internalID: 1424873160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_45
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 10
+        width: 657
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33492523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f066a30943ff84a9a719745abb3271
+      internalID: 1994944042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_4
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 745
+        width: 175
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5364014, y: 0.05211963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11f3f61af601ca43949aa8d273d6e57
+      internalID: -1389710122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_5
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 539
+        width: 156
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04721824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48efaa41e3b45b34396e7b5ced576329
+      internalID: 1223404547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 9
+        width: 154
+        height: 203
+      alignment: 9
+      pivot: {x: 0.41454443, y: 0.06175927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae1b53164bf88a4ca58789ad22a99ce
+      internalID: 42508188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 296
+        height: 344
+      alignment: 9
+      pivot: {x: 0.34017277, y: 0.084222525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86820aa8a29cec84fa3100975f72f986
+      internalID: -618418140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 526
+        width: 213
+        height: 218
+      alignment: 9
+      pivot: {x: 0.41, y: 0.058895845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b12b6203a05ad42a7f2c0733572f2b
+      internalID: -860586779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 828
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0d11455a76087479bef50ae1865c5c
+      internalID: 1524629543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 703
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3ff18470010a44bb7e5988391ef0c
+      internalID: 295334510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 828
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591283f19500eda409090214b44796a9
+      internalID: 618408339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 926
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d31ff2fdce58446b9be71fd61fb3e4
+      internalID: 1808185022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 934
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6109de50619c47b4399b2d44dd050192
+      internalID: -925769758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 936
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982c35d1f229579419b1425db18083ae
+      internalID: 308750524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 954
+        width: 102
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7586c8e22b0b4aab30b3461a22eac
+      internalID: 1066942706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_DreamFields_StonesAndFlowers_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 921
+        width: 239
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fba017394d5f34a9929cef6fc0735f
+      internalID: 1780545471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stones_Flowers_Assets_34: 1116305594
+      Stones_Flowers_Assets_40: -1023236656
+      Stones_Flowers_Assets_24: 791792755
+      Stage_DreamFields_StonesAndFlowers_5: 1223404547
+      Stones_Flowers_Assets_25: 814301324
+      Stage_DreamFields_StonesAndFlowers_7: 1808185022
+      Stage_DreamFields_StonesAndFlowers_37: 1877890677
+      Stage_DreamFields_StonesAndFlowers_17: 546423049
+      Stage_DreamFields_StonesAndFlowers_19: 960075301
+      Stones_Flowers_Assets_22: -1937299010
+      Stones_Flowers_Assets_46: -214012797
+      Stage_DreamFields_StonesAndFlowers_2: 1876019180
+      Stones_Flowers_Assets_36: 815983216
+      Stage_DreamFields_StonesAndFlowers_11: -860586779
+      Stage_DreamFields_StonesAndFlowers_33: -1030024874
+      Stones_Flowers_Assets_28: -40684081
+      Stage_DreamFields_StonesAndFlowers_9: 308750524
+      Stones_Flowers_Assets_43: 1332430270
+      Stones_Flowers_Assets_35: 1652456577
+      Stage_DreamFields_StonesAndFlowers_1: 42508188
+      Stage_DreamFields_StonesAndFlowers_6: 1066942706
+      Stones_Flowers_Assets_20: -1772735510
+      Stage_DreamFields_StonesAndFlowers_3: -618418140
+      Stage_DreamFields_StonesAndFlowers_8: -925769758
+      Stage_DreamFields_StonesAndFlowers_15: 1780545471
+      Stones_Flowers_Assets_27: -1601729723
+      Stage_DreamFields_StonesAndFlowers_12: 1524629543
+      Stage_DreamFields_StonesAndFlowers_14: 618408339
+      Stage_DreamFields_StonesAndFlowers_26: 1962723417
+      Stones_Flowers_Assets_16: 1810711650
+      Stage_DreamFields_StonesAndFlowers_38: 1116310393
+      Stage_DreamFields_StonesAndFlowers_10: -1771808401
+      Stones_Flowers_Assets_32: -700834702
+      Stage_DreamFields_StonesAndFlowers_0: 1598661935
+      Stage_DreamFields_StonesAndFlowers_45: 1994944042
+      Stage_DreamFields_StonesAndFlowers_39: 1424873160
+      Stage_DreamFields_StonesAndFlowers_4: -1389710122
+      Stones_Flowers_Assets_21: 1926337174
+      Stones_Flowers_Assets_41: -2064532768
+      Stones_Flowers_Assets_31: -2025763753
+      Stones_Flowers_Assets_44: 405124533
+      Stage_DreamFields_StonesAndFlowers_13: 295334510
+      Stage_DreamFields_StonesAndFlowers_30: -599432160
+      Stones_Flowers_Assets_42: 105780100
+      Stage_DreamFields_StonesAndFlowers_18: -1000647324
+      Stones_Flowers_Assets_29: -1378951928
+      Stones_Flowers_Assets_23: 542560051
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

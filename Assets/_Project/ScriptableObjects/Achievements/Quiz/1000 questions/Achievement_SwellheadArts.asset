@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43a7ec7c54491f74ea77b3ad7de30340, type: 3}
+  m_Name: Achievement_SwellheadArts
+  m_EditorClassIdentifier: 
+  id: Swellhead - Arts
+  description: Answer 1000 arts questions correctly.
+  icon: {fileID: 21300000, guid: e282f8f84eaef5e48a212b2fe9c3f72e, type: 3}
+  negativeIcon: {fileID: 21300000, guid: ff3f79fdd5b817b42af0ada8e5afca4d, type: 3}
+  targetValue: 3
+  progressNeeded: 1000
+  eventToListen: onQuestionIsCorrectlyAnswered
+  rewardType: 0
+  rewardValue: 0
+  goldRewardValue: 150

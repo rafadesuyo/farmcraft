@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: Stage_DreamFields_RandomGrass
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 21300000, guid: d2665a0a4d608eb44829d640d5650572, type: 3}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Id: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: d2665a0a4d608eb44829d640d5650572, type: 3}
+    - {fileID: 21300000, guid: 851f3fc9df16c5041ac2dae045c72df4, type: 3}
+    - {fileID: 21300000, guid: 34c73353c7ca10a41b25ac7b487f80a4, type: 3}
+    - {fileID: 21300000, guid: dedad9745b9f06f42be55ff6529b2e56, type: 3}
+    - {fileID: 21300000, guid: f02d04019aa7eae44a3bc5de1f954fdf, type: 3}
+    - {fileID: 21300000, guid: 92179cb8d0414114dba63e22e32b206e, type: 3}
+    - {fileID: 21300000, guid: 0611efb95fba2ac47bbc3a833ea8ec0f, type: 3}
+    - {fileID: 21300000, guid: c08e65be5744383468b7818ff8f1f040, type: 3}
+    - {fileID: 21300000, guid: 3e67c4ef956c9c842a65eda219e31bf5, type: 3}
+    - {fileID: 21300000, guid: 13aed2adc860fb14691e301975b70b53, type: 3}
+    - {fileID: 21300000, guid: 478220fe6904b204caed98ee313d8e9f, type: 3}
+    - {fileID: 21300000, guid: 6571a11bbb7eaa44bb6e2ffcb8a4aa1a, type: 3}
+    m_GameObject: {fileID: 0}
+    m_MinAnimationSpeed: 1
+    m_MaxAnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_Output: 1
+    m_ColliderType: 0
+    m_RandomTransform: 0
+    m_Neighbors: 
+    m_NeighborPositions:
+    - {x: -1, y: 1, z: 0}
+    - {x: 0, y: 1, z: 0}
+    - {x: 1, y: 1, z: 0}
+    - {x: -1, y: 0, z: 0}
+    - {x: 1, y: 0, z: 0}
+    - {x: -1, y: -1, z: 0}
+    - {x: 0, y: -1, z: 0}
+    - {x: 1, y: -1, z: 0}
+    m_RuleTransform: 0

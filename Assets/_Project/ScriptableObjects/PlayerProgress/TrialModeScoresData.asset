@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ab02bba8fd9e6246860ce1b85c7174a, type: 3}
+  m_Name: TrialModeScoresData
+  m_EditorClassIdentifier: 
+  cooldownMinutes: 30
+  trialModeCards:
+  - quizCategory: 1
+    previousScore: 0
+    highScore: 0
+    lastTimePlayed: 
+    currentCardCharges: 4
+    maxCardCharges: 4
+  - quizCategory: 2
+    previousScore: 0
+    highScore: 0
+    lastTimePlayed: 
+    currentCardCharges: 2
+    maxCardCharges: 2
+  - quizCategory: 3
+    previousScore: 0
+    highScore: 0
+    lastTimePlayed: 
+    currentCardCharges: 2
+    maxCardCharges: 2
+  - quizCategory: 4
+    previousScore: 0
+    highScore: 0
+    lastTimePlayed: 
+    currentCardCharges: 2
+    maxCardCharges: 2
+  - quizCategory: 5
+    previousScore: 0
+    highScore: 0
+    lastTimePlayed: 
+    currentCardCharges: 2
+    maxCardCharges: 2
+  - quizCategory: 6
+    previousScore: 0
+    highScore: 0
+    lastTimePlayed: 
+    currentCardCharges: 2
+    maxCardCharges: 2
+  - quizCategory: 7
+    previousScore: 2
+    highScore: 3
+    lastTimePlayed: -8585081796443630828
+    currentCardCharges: 0
+    maxCardCharges: 2
+  - quizCategory: 8
+    previousScore: 0
+    highScore: 0
+    lastTimePlayed: 
+    currentCardCharges: 2
+    maxCardCharges: 2

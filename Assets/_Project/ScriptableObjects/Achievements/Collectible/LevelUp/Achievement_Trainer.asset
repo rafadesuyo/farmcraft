@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1be860303e2bda4d9c9188e62e4797d, type: 3}
+  m_Name: Achievement_Trainer
+  m_EditorClassIdentifier: 
+  id: Trainer
+  description: Upgrade 7 collectibles to level 3.
+  icon: {fileID: 21300000, guid: 9e39d7094239ff541a29c0c1d0922b33, type: 3}
+  negativeIcon: {fileID: 21300000, guid: 7882420f7a35b0c4083f8faca9f9b938, type: 3}
+  targetValue: 3
+  progressNeeded: 7
+  eventToListen: onLevelUpCollectible
+  rewardType: 2
+  rewardValue: 10
+  goldRewardValue: 50

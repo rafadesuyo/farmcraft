@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e04b863197b58c9428a08a073ecd7e0a, type: 3}
+  m_Name: Path_Puddle
+  m_EditorClassIdentifier: 
+  sleepingTimeToTraverse: 20
+  pathMaterial: {fileID: 2100000, guid: bda7baa173686c94c9aa3632a73de4b8, type: 2}
+  undersideMaterial: {fileID: 2100000, guid: c1d8d882244c5344fa86a8fd23246f81, type: 2}
+  textureTilingMultiplier: 5

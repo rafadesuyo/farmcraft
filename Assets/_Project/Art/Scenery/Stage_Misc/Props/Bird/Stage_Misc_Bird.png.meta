@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: c45175134145aea4ebf3f3e8b0682c18
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 413
+        width: 45
+        height: 84
+      alignment: 9
+      pivot: {x: 0.4901584, y: 0.41037315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64415dddd41fe04d813b7515335a371
+      internalID: 1391812096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 406
+        width: 67
+        height: 68
+      alignment: 9
+      pivot: {x: 0.3678024, y: 0.44138604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e64cc5d1eced943bd7a328b38ba28f
+      internalID: 459462904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 404
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786aefd3fb7f32a41ac4aa9153b31f7f
+      internalID: -2078480380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 410
+        width: 66
+        height: 52
+      alignment: 9
+      pivot: {x: 0.45302975, y: 0.46593416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17e750f31469d34cb02b600ad70636f
+      internalID: -1255625386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 309
+        width: 88
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5352276, y: 0.41591248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b26f0bea95dde242a1bdb89b3d5d379
+      internalID: -108537821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 284
+        width: 33
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5268402, y: 0.5468915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6db07d5065ca1488d31e6de9c90661
+      internalID: 1722347109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 306
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b07fedbfcfa57449a8bba2f4af5b116
+      internalID: -870880266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 295
+        width: 44
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4798702, y: 0.4284208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fc4378c82830f4fa9165efc6c2eae1
+      internalID: -1710792305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 399
+        width: 52
+        height: 65
+      alignment: 9
+      pivot: {x: 0.58516634, y: 0.5000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00abe4d24bdf3e409ef69dea2898d67
+      internalID: 210455354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_9
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 397
+        width: 33
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5652873, y: 0.5052809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb347c45a42e1f7478458e153b614900
+      internalID: 1655062285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 310
+        width: 36
+        height: 65
+      alignment: 9
+      pivot: {x: 0.4700775, y: 0.51657295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8500929824c00f4c88e2455a39d74fb
+      internalID: -1171677263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_11
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 300
+        width: 206
+        height: 164
+      alignment: 9
+      pivot: {x: 0.48329562, y: 0.46153224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f588592d251ee54d9331e110c1252b0
+      internalID: -658426179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Bird_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 579
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17099875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8a175b88fa4e84c863c98f873c98ff
+      internalID: 2122716153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stage_Misc_Bird_2: -2078480380
+      Stage_Misc_Bird_7: -1710792305
+      Stage_Misc_Bird_1: 459462904
+      Stage_Misc_Bird_12: 2122716153
+      Stage_Misc_Bird_5: 1722347109
+      Stage_Misc_Bird_0: 1391812096
+      Stage_Misc_Bird_3: -1255625386
+      Stage_Misc_Bird_4: -108537821
+      Stage_Misc_Bird_8: 210455354
+      Stage_Misc_Bird_10: -1171677263
+      Stage_Misc_Bird_11: -658426179
+      Stage_Misc_Bird_6: -870880266
+      Stage_Misc_Bird_9: 1655062285
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

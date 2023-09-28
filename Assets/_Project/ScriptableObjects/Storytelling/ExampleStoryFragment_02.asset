@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ff9fb9b5c3a526439e88aa61888ff93, type: 3}
+  m_Name: ExampleStoryFragment_02
+  m_EditorClassIdentifier: 
+  text: "Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Per
+    aumento de cachacis, eu reclamis.Si u mundo t\xE1 muito paradis? Toma um m\xE9
+    que o mundo vai girarzis!Sapien in monti <color=yellow>palavris</color> qui num
+    significa nadis i pareci latim."

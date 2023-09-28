@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d907003442f8ceb47aea2db3be348a99, type: 3}
+  m_Name: T 002
+  m_EditorClassIdentifier: 
+  stageName: Oneeriko Abilities
+  id: 1
+  collectibleNeededToPlay: 0
+  unlockWith9Collectibles: 0
+  quizCategory: 0200000003000000
+  nodeCountInStage: 7
+  backgroundMusic: {fileID: 11400000, guid: 3238c5304f863e74cbda26312b01a575, type: 2}
+  stage: {fileID: 6991433623950416081, guid: cc175ee90ef73fa45b73818543216502, type: 3}
+  zoomMin: 8
+  zoomMax: 15
+  initialZoom: 12
+  goals:
+  - requisite: 0
+    targetValue: 0
+    mainGoal: 1
+    goalReward:
+      totalReward: 30
+      currencyType: 0
+      collectibleType: 0
+      givePartialReward: 0

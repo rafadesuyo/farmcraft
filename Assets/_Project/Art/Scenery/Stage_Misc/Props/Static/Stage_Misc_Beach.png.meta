@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 00f9f435f520f8545a4daad95d837fa2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1660
+        width: 661
+        height: 388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29308453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ac13f7e1e012441836711005dfa869
+      internalID: 142189822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_1
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1581
+        width: 808
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35405332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253d5858d6825ac46af7484d52202279
+      internalID: -551143876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_2
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1553
+        width: 455
+        height: 495
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1887175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cbceaa6943f2047acdcc567e054d41
+      internalID: 992377892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1044
+        width: 203
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.029641518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c86da164520da74eabbc51723a12325
+      internalID: -573545861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1046
+        width: 149
+        height: 520
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02517301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fe9e6f914af724b9d11470555cb2ab
+      internalID: -49849303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1049
+        width: 230
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04233868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6bff150240e914380402fa6f4ea9d2
+      internalID: 399392055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1050
+        width: 168
+        height: 329
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0654987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4aac987164f7740ba3d6493eadf5d5
+      internalID: -1729283691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1069
+        width: 111
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08167102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8afd37c02c3e244fac8ed80ae7b3d46
+      internalID: 1621840763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1082
+        width: 55
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06152607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2658000561b14e347a539687fd361987
+      internalID: 497293760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_9
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1069
+        width: 207
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5, y: 0.026493372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb8f8c4365754c439170e05d335cd8e
+      internalID: -111698684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_10
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1056
+        width: 195
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.052250225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a9e107c81eaa498d102d349d0a428
+      internalID: -321051134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_11
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1066
+        width: 253
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050143335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcba17e50cbf3f44abf0727e7152521
+      internalID: 759875875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_12
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1088
+        width: 184
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6639f17d8636734eb0b816546845687
+      internalID: 1950820624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_13
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1200
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621d4d3ab7645c249827162620e2b531
+      internalID: -726759494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 565
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13181922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4502c023afb34643916b2001d485738
+      internalID: -930969658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_15
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 478
+        width: 346
+        height: 448
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1384667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcddac4807202ea4bb3d0d78c56f34d7
+      internalID: -1434631008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_16
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 458
+        width: 424
+        height: 506
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15404128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44664871cb94d438928bc964da7c8f
+      internalID: -1807490566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_17
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 892
+        width: 164
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16195329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e694c5b8f5f5418cbe54bea060c8a
+      internalID: 1995524083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_18
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 673
+        width: 210
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.055382553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a166874661ec8dd43bc5b9cd78d98b0c
+      internalID: 489721884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_19
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 666
+        width: 375
+        height: 347
+      alignment: 9
+      pivot: {x: 0.5, y: 0.056366935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8307f28db3133a947973bc79ff030c05
+      internalID: -1386087505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 405
+        height: 283
+      alignment: 9
+      pivot: {x: 0.5, y: 0.061468273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f3b14f6de4887478dde11550b7955c
+      internalID: 1835373198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 302
+        height: 454
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06219042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d8222f30b0dce4da4761390864a6ea
+      internalID: 727739819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_22
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 446
+        height: 307
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15552625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531605074e8112e4c8f9ea935309a982
+      internalID: 1082849420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_Beach_23
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 0
+        width: 706
+        height: 639
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2270788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b077066508785854195fad6121a5215d
+      internalID: -1903890888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stage_Misc_Beach_17: 1995524083
+      Stage_Misc_Beach_19: -1386087505
+      Stage_Misc_Beach_5: 399392055
+      Stage_Misc_Beach_2: 992377892
+      Stage_Misc_Beach_1: -551143876
+      Stage_Misc_Beach_4: -49849303
+      Stage_Misc_Beach_8: 497293760
+      Stage_Misc_Beach_3: -573545861
+      Stage_Misc_Beach_11: 759875875
+      Stage_Misc_Beach_18: 489721884
+      Stage_Misc_Beach_7: 1621840763
+      Stage_Misc_Beach_9: -111698684
+      Stage_Misc_Beach_22: 1082849420
+      Stage_Misc_Beach_20: 1835373198
+      Stage_Misc_Beach_6: -1729283691
+      Stage_Misc_Beach_10: -321051134
+      Stage_Misc_Beach_13: -726759494
+      Stage_Misc_Beach_16: -1807490566
+      Stage_Misc_Beach_23: -1903890888
+      Stage_Misc_Beach_0: 142189822
+      Stage_Misc_Beach_15: -1434631008
+      Stage_Misc_Beach_21: 727739819
+      Stage_Misc_Beach_12: 1950820624
+      Stage_Misc_Beach_14: -930969658
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7354633571fd8b74a8ba2104c20143e9, type: 3}
+  m_Name: RealSleeperAbility
+  m_EditorClassIdentifier: 
+  abilityId: 32
+  name: Real Sleeper
+  description: Reduce sleeping time spent from all questions by {modifier}.
+  miniDescription: '{modifier} sleeping time usage'
+  icon: {fileID: 21300000, guid: fe5cb3cbbd86f5647a69fdab84a960bf, type: 3}
+  iconSkeletonData: {fileID: 11400000, guid: 6d325d7508a6016468912106437b6b31, type: 2}
+  iconAnimation: {fileID: 11400000, guid: bf72ea5d9e0753740901b41d563a98f7, type: 2}
+  unlockLevel: 1
+  abilityEnhancements:
+  - {fileID: 11400000, guid: 502024b454d9eba4f971eaaed5e3f83e, type: 2}
+  - {fileID: 11400000, guid: 2018757fcd7b3734aad57512fec8e279, type: 2}
+  - {fileID: 11400000, guid: d18c81e26bb11dd4986e5507832f24a0, type: 2}
+  - {fileID: 11400000, guid: 8a3360cb03128d447aa408c2d3aa21a0, type: 2}
+  - {fileID: 11400000, guid: 553f9b093048c9048a8b63738a24bb61, type: 2}
+  maxLevel: 5
+  isPassiveUse: 1

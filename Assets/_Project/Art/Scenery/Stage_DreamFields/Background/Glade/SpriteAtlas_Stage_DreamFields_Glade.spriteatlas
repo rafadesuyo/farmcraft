@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas_Stage_DreamFields_Glade
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c0462c9facd825b46bd792b95e8d68ca, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 68dfbf707f168c9409b0ca3c2914eb04, type: 3}
+  - {fileID: 21300000, guid: 6203d531b06f8584d938223cc73408bd, type: 3}
+  - {fileID: 21300000, guid: 8d01257179150954091a2d601ebc745d, type: 3}
+  - {fileID: 21300000, guid: 8e7863a25e8786043b3a40dc72c57eb1, type: 3}
+  - {fileID: 21300000, guid: 5a2adc4386f097b4b8363b30ffcef212, type: 3}
+  - {fileID: 21300000, guid: 05365253c945f704d844f253802aabfa, type: 3}
+  - {fileID: 21300000, guid: 678aced49ef54f643943f14348cde0a4, type: 3}
+  - {fileID: 21300000, guid: c432be957e0adaa45b0b65796a708587, type: 3}
+  - {fileID: 21300000, guid: 2d2286c52a1c5c248bd02b1cb2c01663, type: 3}
+  - {fileID: 21300000, guid: a19e27866535ab6468f11a9ce69b919f, type: 3}
+  - {fileID: 21300000, guid: e71876f779949df4ea7771800e1e6bea, type: 3}
+  - {fileID: 21300000, guid: 9e2a0e98568bc074b8f65d7a312f0897, type: 3}
+  - {fileID: 21300000, guid: 396ff049a05a3694088cd1a9c71edbd4, type: 3}
+  - {fileID: 21300000, guid: 9c061df9ff2d44c4e93fa61cd87e441b, type: 3}
+  - {fileID: 21300000, guid: d47b1d9b7e749e34c8b887517b24539d, type: 3}
+  - {fileID: 21300000, guid: 579def9b68b0e174c9faab99e84b30b3, type: 3}
+  - {fileID: 21300000, guid: 2081f77c9091e534c9a1ab2ca6c81887, type: 3}
+  - {fileID: 21300000, guid: 4f767f8c3b1481a4284e54345f243049, type: 3}
+  - {fileID: 21300000, guid: 8900288dd1e558b4ebb474d373671690, type: 3}
+  - {fileID: 21300000, guid: d6afd99e140573f469cfc93aaca394a7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Stage_DreamFields_Glade_15
+  - Stage_DreamFields_Glade_12
+  - Stage_DreamFields_Glade_1
+  - Stage_DreamFields_Glade_6
+  - Stage_DreamFields_Glade_16
+  - Stage_DreamFields_Glade_9
+  - Stage_DreamFields_Glade_7
+  - Stage_DreamFields_Glade_14
+  - Stage_DreamFields_Glade_3
+  - Stage_DreamFields_Glade_18
+  - Stage_DreamFields_Glade_19
+  - Stage_DreamFields_Glade_8
+  - Stage_DreamFields_Glade_4
+  - Stage_DreamFields_Glade_13
+  - Stage_DreamFields_Glade_5
+  - Stage_DreamFields_Glade_10
+  - Stage_DreamFields_Glade_17
+  - Stage_DreamFields_Glade_2
+  - Stage_DreamFields_Glade_20
+  - Stage_DreamFields_Glade_11
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas_Stage_DreamFields_Glade
+  m_IsVariant: 0

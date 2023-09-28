@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: ffe10046cb6daf040a3e9640c0db6d51
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830
+        width: 497
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31121346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e015e043c7d060488e7986eb64afe68
+      internalID: 413488173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1804
+        width: 387
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11090249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99221163ad0f2e54fac1632d03efd1fb
+      internalID: 1258833980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1853
+        width: 75
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29310325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ad1956a5436274bbb13c2c8cbf07cf
+      internalID: -369190910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_3
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1837
+        width: 139
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06835148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7510c432e499ed6418aa9ee13b46bf84
+      internalID: 1439999827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_4
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1843
+        width: 88
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0.036029276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62775cb47d44ca418b3290c87678753
+      internalID: -202090773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_5
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1833
+        width: 108
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02818676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca751173e39fff44a94ea52b0f34cb7
+      internalID: -2015692595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_6
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1816
+        width: 320
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08747295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8775a1df06c26104db0743dbe3f50da5
+      internalID: -549450273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1389
+        width: 352
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18790677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b084cb78b9731541aa8d3b952a43605
+      internalID: 67105437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1309
+        width: 491
+        height: 390
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20644687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f9086b6c292314eb745611cb421154
+      internalID: 495641669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_9
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1343
+        width: 409
+        height: 395
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a6adfa5b6f07a429039574f0ea4b5f
+      internalID: -2103193154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_10
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1363
+        width: 575
+        height: 411
+      alignment: 9
+      pivot: {x: 0.5, y: 0.147981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f9d285d2374a74ea8db33137797506
+      internalID: -2117045432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 897
+        width: 394
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18559964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858de90bf216aff4c829e4d5a06c4e66
+      internalID: -1820898639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_12
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 723
+        width: 322
+        height: 475
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14416581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c25135a5eaeda4d98bfcb6a673d4ca
+      internalID: -431325676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_13
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 804
+        width: 142
+        height: 344
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03767058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58175ec3fe310d8469293b41c62f6317
+      internalID: 947600428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_14
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 809
+        width: 137
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03417991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f3981304101a64c8dc87c3af87eb74
+      internalID: 987116627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_15
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 812
+        width: 102
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.053793248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29058977678cca54e8116217e867f345
+      internalID: 2139655412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_16
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 833
+        width: 132
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.040444393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64be6ca9ef87ee94281b0e6f626c0a8b
+      internalID: -1841428308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_17
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 836
+        width: 100
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06932979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ec06ecd6791e341a780b00152df14d
+      internalID: 730735783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_18
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 843
+        width: 100
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.027335769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff22c55c400b0418dcc60b5dd07321
+      internalID: 1114696935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_19
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 840
+        width: 168
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20503123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a6714486c984b41be503e1e6625e84
+      internalID: -1318677057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 335
+        width: 522
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17195003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db721c25820956d44beccea21d2fde19
+      internalID: 330240228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 364
+        width: 302
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.069935106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6760aebb388c94fbb573c2662f3d31
+      internalID: 43356328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 372
+        width: 312
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06990905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8845142788c64bbf508f89d41393a
+      internalID: 1360860584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_23
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 389
+        width: 192
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07202724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92112eec21f52bf46bbfbcb4afb019b1
+      internalID: -962798221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_24
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 415
+        width: 271
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.031834334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dccf6599950fbf409151a3183c76133
+      internalID: -681663136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_25
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 556
+        width: 102
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14845003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628ef9f1a773d754f83b1ef51e740797
+      internalID: -1076906514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_26
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 386
+        width: 116
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.093225546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6ab124e5da77942b2788f3d4790121
+      internalID: -478339689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 32
+        width: 270
+        height: 281
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06596376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b301f5f5998a64c90832fad9dfa97e
+      internalID: -699959565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_28
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 32
+        width: 195
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5, y: 0.037665725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221f574a23703e1458aabe0f40ccf7ff
+      internalID: 758617869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_29
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 40
+        width: 187
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06758731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8982b465ea9e5df4e876c27a5554da5e
+      internalID: -1567157499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_30
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 34
+        width: 133
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03987241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3f1ac117454cf43844a369e442fdf1
+      internalID: 1310102488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_31
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 22
+        width: 136
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04746782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86c656b33d71a04181ba3714607fd0b
+      internalID: -318592743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_32
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 27
+        width: 79
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03939163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9d5a1684973b7498fbffe00e4bb656
+      internalID: -1952339108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_33
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 35
+        width: 164
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12218639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4b5e472f1adeb469f0efa76e6599a6
+      internalID: 78819236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_34
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 109
+        width: 107
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27800566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae1e7aca3ed3d747ab6e17fc56491ef
+      internalID: -1539513536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_Misc_DryPlantsAndRocks_35
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 41
+        width: 40
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.101112224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ad680d0f74ac847b78c014fa4db270
+      internalID: -1875633722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stage_Misc_DryPlantsAndRocks_20: 330240228
+      Stage_Misc_DryPlantsAndRocks_21: 43356328
+      Stage_Misc_DryPlantsAndRocks_23: -962798221
+      Stage_Misc_DryPlantsAndRocks_9: -2103193154
+      Stage_Misc_DryPlantsAndRocks_15: 2139655412
+      Stage_Misc_DryPlantsAndRocks_30: 1310102488
+      Stage_Misc_DryPlantsAndRocks_2: -369190910
+      Stage_Misc_DryPlantsAndRocks_29: -1567157499
+      Stage_Misc_DryPlantsAndRocks_7: 67105437
+      Stage_Misc_DryPlantsAndRocks_8: 495641669
+      Stage_Misc_DryPlantsAndRocks_14: 987116627
+      Stage_Misc_DryPlantsAndRocks_13: 947600428
+      Stage_Misc_DryPlantsAndRocks_27: -699959565
+      Stage_Misc_DryPlantsAndRocks_25: -1076906514
+      Stage_Misc_DryPlantsAndRocks_5: -2015692595
+      Stage_Misc_DryPlantsAndRocks_22: 1360860584
+      Stage_Misc_DryPlantsAndRocks_31: -318592743
+      Stage_Misc_DryPlantsAndRocks_35: -1875633722
+      Stage_Misc_DryPlantsAndRocks_19: -1318677057
+      Stage_Misc_DryPlantsAndRocks_33: 78819236
+      Stage_Misc_DryPlantsAndRocks_0: 413488173
+      Stage_Misc_DryPlantsAndRocks_24: -681663136
+      Stage_Misc_DryPlantsAndRocks_26: -478339689
+      Stage_Misc_DryPlantsAndRocks_28: 758617869
+      Stage_Misc_DryPlantsAndRocks_12: -431325676
+      Stage_Misc_DryPlantsAndRocks_4: -202090773
+      Stage_Misc_DryPlantsAndRocks_11: -1820898639
+      Stage_Misc_DryPlantsAndRocks_1: 1258833980
+      Stage_Misc_DryPlantsAndRocks_3: 1439999827
+      Stage_Misc_DryPlantsAndRocks_10: -2117045432
+      Stage_Misc_DryPlantsAndRocks_34: -1539513536
+      Stage_Misc_DryPlantsAndRocks_16: -1841428308
+      Stage_Misc_DryPlantsAndRocks_32: -1952339108
+      Stage_Misc_DryPlantsAndRocks_6: -549450273
+      Stage_Misc_DryPlantsAndRocks_17: 730735783
+      Stage_Misc_DryPlantsAndRocks_18: 1114696935
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

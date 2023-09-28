@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: Stage_Misc_LiveBush_Color2
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: -1007563337, guid: 4132f5a9a1f68a14b818e2c1ff3b3191, type: 3}
+  m_DefaultGameObject: {fileID: 3061376482816178841, guid: 0f1f904c1abea9c439b0c9d715854757, type: 3}
+  m_DefaultColliderType: 1
+  m_TilingRules: []

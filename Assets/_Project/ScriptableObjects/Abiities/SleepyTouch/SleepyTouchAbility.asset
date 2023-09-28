@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7354633571fd8b74a8ba2104c20143e9, type: 3}
+  m_Name: SleepyTouchAbility
+  m_EditorClassIdentifier: 
+  abilityId: 6
+  name: Sleepy Touch
+  description: Turns a simple node into a gold node. Can be used {modifier} times.
+  miniDescription: 'Uses: {modifier}'
+  icon: {fileID: 21300000, guid: 36594799e45b6a74c83f440c62f8337b, type: 3}
+  iconSkeletonData: {fileID: 11400000, guid: 6d325d7508a6016468912106437b6b31, type: 2}
+  iconAnimation: {fileID: 11400000, guid: bf72ea5d9e0753740901b41d563a98f7, type: 2}
+  unlockLevel: 1
+  abilityEnhancements:
+  - {fileID: 11400000, guid: 643fd2a5a4110c84ea910fffff08acf3, type: 2}
+  - {fileID: 11400000, guid: 820e123ada6184042a98473db2213a12, type: 2}
+  - {fileID: 11400000, guid: 320cbea5cf5a3604b9e451a548e68f47, type: 2}
+  - {fileID: 11400000, guid: b319eeb69e173f9429e462242e8f59d2, type: 2}
+  - {fileID: 11400000, guid: a76e187a45f0adc40bbf9ca68feaaf3b, type: 2}
+  maxLevel: 5
+  isPassiveUse: 0

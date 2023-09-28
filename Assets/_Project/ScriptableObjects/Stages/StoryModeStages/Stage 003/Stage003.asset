@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d907003442f8ceb47aea2db3be348a99, type: 3}
+  m_Name: Stage003
+  m_EditorClassIdentifier: 
+  stageName: Oasis
+  id: 12
+  collectibleNeededToPlay: 0
+  unlockWith9Collectibles: 0
+  quizCategory: 0200000006000000050000000400000003000000
+  nodeCountInStage: 10
+  backgroundMusic: {fileID: 11400000, guid: 103a854c4fb46d5458035aaf1cc2882e, type: 2}
+  stage: {fileID: 4339518253022009984, guid: 2b8fda84e74092f42a5f95a2218da06f, type: 3}
+  zoomMin: 8
+  zoomMax: 16
+  initialZoom: 12
+  goals:
+  - requisite: 0
+    targetValue: 0
+    mainGoal: 1
+    goalReward:
+      totalReward: 0
+      currencyType: 0
+      collectibleType: 0
+      givePartialReward: 0
+  - requisite: 2
+    targetValue: 8
+    mainGoal: 0
+    goalReward:
+      totalReward: 50
+      currencyType: 0
+      collectibleType: 0
+      givePartialReward: 1

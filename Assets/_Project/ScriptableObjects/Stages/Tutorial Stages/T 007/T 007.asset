@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d907003442f8ceb47aea2db3be348a99, type: 3}
+  m_Name: T 007
+  m_EditorClassIdentifier: 
+  stageName: No poison allowed
+  id: 6
+  collectibleNeededToPlay: 0
+  unlockWith9Collectibles: 0
+  quizCategory: 0200000003000000
+  nodeCountInStage: 7
+  backgroundMusic: {fileID: 11400000, guid: 3238c5304f863e74cbda26312b01a575, type: 2}
+  stage: {fileID: 5431790591690066737, guid: 3e8fe969d9118734b93ac47f5b9b639d, type: 3}
+  zoomMin: 8
+  zoomMax: 15
+  initialZoom: 12
+  goals:
+  - requisite: 0
+    targetValue: 0
+    mainGoal: 1
+    goalReward:
+      totalReward: 50
+      currencyType: 0
+      collectibleType: 0
+      givePartialReward: 0

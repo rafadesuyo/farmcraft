@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ada4c63d91772f44a810600de059435a, type: 3}
+  m_Name: DefaultRewards
+  m_EditorClassIdentifier: 
+  daysBetweenRewards: 1
+  maxDaysToGetRewards: 14
+  shouldResetListWhenExpiring: 1
+  dailyRewards:
+  - rewards:
+    - type: 0
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 2
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+  - rewards:
+    - type: 0
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 2
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+  - rewards:
+    - type: 0
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 2
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+  - rewards:
+    - type: 0
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 2
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+  - rewards:
+    - type: 0
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 2
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 1
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 3
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+  - rewards:
+    - type: 0
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 2
+      collectibleType: 1
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 1
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 3
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+  - rewards:
+    - type: 0
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 2
+      collectibleType: 7
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 1
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 3
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+  - rewards:
+    - type: 0
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 2
+      collectibleType: 6
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 1
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 3
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+  - rewards:
+    - type: 0
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 2
+      collectibleType: 8
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 1
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 3
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+  - rewards:
+    - type: 0
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 2
+      collectibleType: 10
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 1
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 3
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+  - rewards:
+    - type: 4
+      collectibleType: 0
+      storeItem: {fileID: 11400000, guid: 23d7531893e876c4da79b4c2b25e4bb8, type: 2}
+      rewardValue: 1
+    - type: 1
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+    - type: 3
+      collectibleType: 0
+      storeItem: {fileID: 0}
+      rewardValue: 1
+  mediumRewardsStartIndex: 4
+  bigRewardsStartIndex: 10

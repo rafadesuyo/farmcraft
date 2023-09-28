@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas_CollectiblesPortraits
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 74ead3fdb6f4e104fb83adf98a9974c2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 79654a805627cdc4eb15f757a5f27583, type: 3}
+  - {fileID: 21300000, guid: e8b7f04106727644db4f1fa5a42b22c4, type: 3}
+  - {fileID: 21300000, guid: 3f2460e1e8ea7624cb827946bded85bf, type: 3}
+  - {fileID: 21300000, guid: fed768c242870c24e8ad9a3aea001b54, type: 3}
+  - {fileID: 21300000, guid: 5fc0bf03264e1fe4fbb1fd24462ac555, type: 3}
+  - {fileID: 21300000, guid: 45aab0f3d0b989241be522381b1ffce7, type: 3}
+  - {fileID: 21300000, guid: a05abca43cbc26c498a28c9eaa6f245f, type: 3}
+  - {fileID: 21300000, guid: bd7e3605fc11264439948fdc7ab6f1aa, type: 3}
+  - {fileID: 21300000, guid: c67a2755e3a270345bdf10bcdecfae85, type: 3}
+  - {fileID: 21300000, guid: 9109345646e65ee488d57161cf00a293, type: 3}
+  - {fileID: 21300000, guid: 18f1ec56844b7644fb07bb844cb28291, type: 3}
+  - {fileID: 21300000, guid: afaf2f76953a307418bad3043aa0733a, type: 3}
+  - {fileID: 21300000, guid: fcede8d66211d7c4699f98d7d2fdc2a0, type: 3}
+  - {fileID: 21300000, guid: d7e664c86d5b18541baba8fb628256e2, type: 3}
+  - {fileID: 21300000, guid: c0385139ac3708d4096654ddbb87d7aa, type: 3}
+  - {fileID: 21300000, guid: 42989279cacaf9d4fbf640c3fe7793ed, type: 3}
+  - {fileID: 21300000, guid: 117d188be682041448009c9d3e90cdb1, type: 3}
+  - {fileID: 21300000, guid: fb7923ce77c8f9345b6a6cd1580d2f0e, type: 3}
+  - {fileID: 21300000, guid: 503de0de5ce8002478fec32ff6f40da5, type: 3}
+  - {fileID: 21300000, guid: 7049d6de25b77ca4ea1de98c104736c0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Collectible_Charlotte_Portrait_BlackWhite
+  - Collectible_Max_Portrait_BlackWhite
+  - Collectible_SmartOwl_Portrait_Colored
+  - Collectible_Virgil_Portrait_BlackWhite
+  - Collectible_Charlotte_Portrait_Colored
+  - Collectible_Astrish_Portrait_Colored
+  - Collectible_Max_Portrait_Colored
+  - Collectible_CraigNolan_Portrait_Colored
+  - Collectible_Astrish_Portrait_BlackWhite
+  - Collectible_Orni_Portrait_BlackWhite
+  - Collectible_Sleepy_Portrait_BlackWhite
+  - Collectible_Careme_Portrait_Colored
+  - Collectible_Virgil_Portrait_Colored
+  - Collectible_SmartOwl_Portrait_BlackWhite
+  - Collectible_CraigNolan_Portrait_BlackWhite
+  - Collectible_Sleepy_Portrait_Colored
+  - Collectible_CatlynNoir_Portrait_Colored
+  - Collectible_Careme_Portrait_BlackWhite
+  - Collectible_CatlynNoir_Portrait_BlackWhite
+  - Collectible_Orni_Portrait_Colored
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas_CollectiblesPortraits
+  m_IsVariant: 0

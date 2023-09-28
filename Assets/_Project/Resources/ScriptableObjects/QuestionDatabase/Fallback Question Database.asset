@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb45b1203cf49ee4c82c22ef565ccc83, type: 3}
+  m_Name: Fallback Question Database
+  m_EditorClassIdentifier: 
+  removeQuestionOnGet: 0
+  questions:
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 2
+    quizDifficulty: 0
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 3
+    quizDifficulty: 0
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 4
+    quizDifficulty: 0
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 6
+    quizDifficulty: 0
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 8
+    quizDifficulty: 0
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 2
+    quizDifficulty: 1
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 3
+    quizDifficulty: 1
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 4
+    quizDifficulty: 1
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 6
+    quizDifficulty: 1
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 8
+    quizDifficulty: 1
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 2
+    quizDifficulty: 2
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 3
+    quizDifficulty: 2
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 4
+    quizDifficulty: 2
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 6
+    quizDifficulty: 2
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 8
+    quizDifficulty: 2
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 5
+    quizDifficulty: 0
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 5
+    quizDifficulty: 1
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 5
+    quizDifficulty: 2
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 7
+    quizDifficulty: 0
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 7
+    quizDifficulty: 1
+    correctIndex: 3
+    hint: This is a test!
+  - title: Test!
+    answers:
+    - Wrong answer
+    - Also wrong
+    - Definitely wrong
+    - Pick this!
+    quizCategory: 7
+    quizDifficulty: 2
+    correctIndex: 3
+    hint: This is a test!

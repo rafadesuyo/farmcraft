@@ -1,0 +1,2584 @@
+fileFormatVersion: 2
+guid: 83e2da0453890a54190af9c29f544139
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1825
+        width: 163
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5313411, y: 0.32721546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aecb491ae301c14da650c8a5ade183c
+      internalID: -1024522930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1828
+        width: 119
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5135567, y: 0.26768115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6744f566f5f6bff41896e1df89818b1f
+      internalID: 1269244836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1839
+        width: 100
+        height: 56
+      alignment: 9
+      pivot: {x: 0.61465394, y: 0.16182382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232160208135280418026802fed0db0d
+      internalID: -1210890368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1842
+        width: 93
+        height: 92
+      alignment: 9
+      pivot: {x: 0.577407, y: 0.10714722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf36eaa1e84c284a9b2f0968b8839e3
+      internalID: -847223442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1822
+        width: 201
+        height: 213
+      alignment: 9
+      pivot: {x: 0.51684266, y: 0.09887523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbce2f290a5a95a43b84834641fd124a
+      internalID: 1036787296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1831
+        width: 150
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5701896, y: 0.06472599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41469fcd6d17e94d82e23cf82967caf
+      internalID: -1495030248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_6
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1827
+        width: 69
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5025936, y: 0.039803244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cae5b5ce9fa0ff4bb5256911c777395
+      internalID: 2087213789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_7
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 5
+        width: 824
+        height: 2029
+      alignment: 9
+      pivot: {x: 0.48301163, y: 0.045817293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feec0096f9fb1f44285f8710acb3fcfc
+      internalID: -1027682564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1719
+        width: 53
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54865944, y: 0.25283635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780087bb44ce15c4089d46cf6bf3cdeb
+      internalID: 1006144577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1718
+        width: 55
+        height: 33
+      alignment: 9
+      pivot: {x: 0.52438354, y: 0.06502279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5b93d9b5ed5542942eab466755147
+      internalID: 1829726625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1715
+        width: 52
+        height: 46
+      alignment: 9
+      pivot: {x: 0.7363921, y: 0.25560728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fb6abddaa5f314b82f09eb4c0fd04a
+      internalID: 1412323399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1634
+        width: 192
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4758482, y: 0.18925455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49897bc19197fa41a05929df6c88fba
+      internalID: -876350351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_13
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1714
+        width: 46
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6911475, y: 0.48728365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a958cde3dea5c449d264c8346c1755
+      internalID: -2097837983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1688
+        width: 57
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5980297, y: 0.19956316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679f2e8013e7a084e897ce0d03b27bea
+      internalID: 1865667225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1667
+        width: 50
+        height: 29
+      alignment: 9
+      pivot: {x: 0.64271116, y: 0.24605587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9dfed608ccc994899005035d6251d8
+      internalID: 1687836334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_16
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1672
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6403039, y: 0.5762521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f7bb50d92e3f949951b6f480d288b8
+      internalID: -1480863825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1626
+        width: 53
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6890567, y: 0.26302338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a3138010e9074468ce574356c8b1c1
+      internalID: 761143052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1644
+        width: 49
+        height: 32
+      alignment: 9
+      pivot: {x: 0.69314516, y: 0.5545349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a9c4351b470b84c9d59c0b7811cd8c
+      internalID: 399777154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1576
+        width: 45
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5187035, y: 0.13467285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0a48ec60771ab409db61823fbc0bf1
+      internalID: -1646151749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1578
+        width: 68
+        height: 29
+      alignment: 9
+      pivot: {x: 0.57240206, y: 0.31124142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a83f3076e83bb438dd4180aa657750
+      internalID: 51768552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_21
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1475
+        width: 54
+        height: 87
+      alignment: 9
+      pivot: {x: 0.6851445, y: 0.06384277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecafba2f09661a846b47e069694ff47c
+      internalID: 476811438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_22
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1539
+        width: 35
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddae18e717a2d3498be8f9b728dcb84
+      internalID: -2083328507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_23
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1530
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.62202245, y: 0.06570352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b8e0a8ff3627b40856a2fc130045b9
+      internalID: 237162098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_24
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1530
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7534328, y: 0.1627922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfa8f34771a3564b95d84928bd34352
+      internalID: 1862910109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_25
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1532
+        width: 37
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7065017, y: 0.112029046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59aff82e8171984e9f134f54dab7b57
+      internalID: -1120375190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1379
+        width: 54
+        height: 123
+      alignment: 9
+      pivot: {x: 0.6513649, y: 0.3405712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7399221a1979754c81bec7b5cf9d45c
+      internalID: -1768618688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1348
+        width: 89
+        height: 174
+      alignment: 9
+      pivot: {x: 0.51147956, y: 0.32295597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4973c8a5904e74dbf754d3c7481650
+      internalID: -64132471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1374
+        width: 38
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26233158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc15d9c432a3def46b211c5e94976dcb
+      internalID: 875196461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1465
+        width: 52
+        height: 57
+      alignment: 9
+      pivot: {x: 0.585451, y: 0.12343022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d65d0f86ea3b147b47a3cdd8bb38da
+      internalID: 1117252233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_30
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1456
+        width: 46
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6368461, y: 0.0694294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a321888c7d6d6e4fb8ee5e95c025839
+      internalID: 1894443601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_31
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1470
+        width: 57
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6045843, y: 0.06658645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69090c54fdbd42643bd58269f4a8f5c8
+      internalID: -1505817815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_32
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1501
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7122379, y: 0.10852814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef1e0a3b4e6a1f48a7a4442b4e32ea4
+      internalID: 625871308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_33
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1476
+        width: 35
+        height: 30
+      alignment: 9
+      pivot: {x: 0.65876466, y: 0.16206868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caddb37519e98143a399743982969f9
+      internalID: 222606358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_34
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1465
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5844776, y: 0.18386303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa20e52ac54d9244b57c75e5f037390
+      internalID: -1653990941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_35
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1452
+        width: 86
+        height: 44
+      alignment: 9
+      pivot: {x: 0.58374447, y: 0.120466754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc787d705e542c4ca00ac1373ce5d05
+      internalID: -1239771041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_36
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1423
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.67364794, y: 0.12155151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405765d595a30384a9e513fc3f021b9d
+      internalID: -887251196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_37
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1428
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6370898, y: 0.13681123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e6c5ea31f194c469bb56bf84040500
+      internalID: 471224836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_38
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1412
+        width: 41
+        height: 34
+      alignment: 9
+      pivot: {x: 0.68635523, y: 0.1634306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf892d017b5dffa42a081dc62c880740
+      internalID: 1424313344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1334
+        width: 43
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96309eacc43621d42a4bab483a80f0b3
+      internalID: -113480296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_40
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1329
+        width: 44
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddde469006fcde4ebd8bdcc95781e5b
+      internalID: 1140374171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_41
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1372
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 0.74159837, y: 0.124032155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b1baba0f882a1428946bd5858c7357
+      internalID: -352257188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1328
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2264d248b652f348b53bae1ecda4478
+      internalID: 1919590585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1191
+        width: 113
+        height: 83
+      alignment: 9
+      pivot: {x: 0.51516414, y: 0.3303149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b0af349fba99f4691b9b8c6ae60330
+      internalID: -2047660695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_44
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1157
+        width: 205
+        height: 129
+      alignment: 9
+      pivot: {x: 0.53343385, y: 0.2922278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b9f81d5ebbeeb4b8863b73b39d4516
+      internalID: 582170311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_45
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1238
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5172021, y: 0.046558198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e6889d9f1c124f91946e8eab4d305
+      internalID: 424539274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_46
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1237
+        width: 37
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5576518, y: 0.02893918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc73b7cb22870c44fb26fcd34b835d86
+      internalID: -161092642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_48
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1217
+        width: 38
+        height: 61
+      alignment: 9
+      pivot: {x: 0.65374595, y: 0.08909532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a84144137a37f419fa57f35b7eeab9
+      internalID: 1059131836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_49
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1210
+        width: 27
+        height: 59
+      alignment: 9
+      pivot: {x: 0.57037354, y: 0.051528156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf6f47efff4fc44ca50fa6588f58e59
+      internalID: -1414307761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_50
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1188
+        width: 19
+        height: 72
+      alignment: 9
+      pivot: {x: 0.8063515, y: 0.014434814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2c0e95c8deef941a4e290ac9e49248
+      internalID: 537805453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_51
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1160
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.36616516, y: 0.097286984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb71a08a5d6e32a479b24da8ce82e7f7
+      internalID: -233253239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_52
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1168
+        width: 26
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5776085, y: 0.25032768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e04a9cc0a43dae4ca5a4be764cca666
+      internalID: -1307522002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_53
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1186
+        width: 24
+        height: 69
+      alignment: 9
+      pivot: {x: 0.67323303, y: 0.024741352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9577bfd8e289e4196d00251ff963df
+      internalID: 26194537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_55
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1044
+        width: 239
+        height: 131
+      alignment: 9
+      pivot: {x: 0.49999923, y: 0.36624822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a1c6a1b03d20843807fb5f56cae3a2
+      internalID: 1843712137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1041
+        width: 122
+        height: 80
+      alignment: 9
+      pivot: {x: 0.49999923, y: 0.44979706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230d54e4fba1d2048b58a7a9602a6732
+      internalID: -1478181261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_57
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1064
+        width: 47
+        height: 39
+      alignment: 9
+      pivot: {x: 0.827851, y: 0.11152531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13135f49a6a52484aa118e997d074f8d
+      internalID: 328808922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_58
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1062
+        width: 57
+        height: 48
+      alignment: 9
+      pivot: {x: 0.64373136, y: 0.12290192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8e9d71964f5e54f9e3d767b31234c8
+      internalID: 84483879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_59
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1091
+        width: 23
+        height: 52
+      alignment: 9
+      pivot: {x: 0.78658396, y: 0.087796725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0e7f01504b29249988ff81c26c49e5
+      internalID: -1095839330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1067
+        width: 51
+        height: 37
+      alignment: 9
+      pivot: {x: 0.53870344, y: 0.041540198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee684aac81742444a87f1a805f7ef822
+      internalID: 1033472249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 676
+        width: 276
+        height: 238
+      alignment: 9
+      pivot: {x: 0.49379155, y: 0.21598957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef911aedec12e24db44771a9ed31831
+      internalID: 48362511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_62
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 759
+        width: 233
+        height: 163
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.2102474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c03756b9b5b92146be2a7bb746873d3
+      internalID: -1164988947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_63
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 826
+        width: 191
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5367364, y: 0.27422357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d6c671823616f42848894b376ebf3d
+      internalID: -1152245714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_64
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 748
+        width: 340
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5155331, y: 0.29324225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da0339e6a5d05c4aa496f6fc504c4e4
+      internalID: 717751995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_65
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 522
+        width: 85
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5201594, y: 0.19866766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078163296800dcd47a48f43d8c9e77a8
+      internalID: 663076621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 518
+        width: 102
+        height: 97
+      alignment: 9
+      pivot: {x: 0.51679903, y: 0.22964698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145a9eea16dde4f4f9756cab1021d934
+      internalID: -1014147770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_67
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 531
+        width: 74
+        height: 65
+      alignment: 9
+      pivot: {x: 0.47684294, y: 0.26361647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842804861489474f9d7bd5d46f1f2e4
+      internalID: 418893860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_68
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 525
+        width: 171
+        height: 158
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.17352062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d31f65bd5eda9c40be89f0c4e6cd563
+      internalID: 1285816654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_69
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 548
+        width: 126
+        height: 96
+      alignment: 9
+      pivot: {x: 0.47279963, y: 0.19634056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2c4ea4c5eecb7409d5c344715a92eb
+      internalID: -124503966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_70
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 532
+        width: 124
+        height: 167
+      alignment: 9
+      pivot: {x: 0.52067614, y: 0.24563543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64447c82b2ec9a4c93c9646a91474c9
+      internalID: -282769321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_72
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 546
+        width: 53
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4903242, y: 0.30216435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7115bc59d437a354a8bca1fc36784856
+      internalID: 1971593399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_73
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 474
+        width: 61
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5684434, y: 0.08729692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c146a8f6eb28807439473d0692b22ef3
+      internalID: 1211584844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_74
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 456
+        width: 51
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6318132, y: 0.121125095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58548e12efac52740a15acedab3bb95e
+      internalID: -1132361651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_75
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 404
+        width: 95
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49460194, y: 0.33464485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580482bec7533d44984f46ce4712c2ec
+      internalID: -2045932380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_76
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 391
+        width: 63
+        height: 93
+      alignment: 9
+      pivot: {x: 0.48372203, y: 0.29221958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e9d5a0479a62843bf54b27a7223533
+      internalID: 697318532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_77
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 396
+        width: 71
+        height: 62
+      alignment: 9
+      pivot: {x: 0.59766793, y: 0.07269927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efa60cf0e7326e429358653de05b402
+      internalID: -2053683539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_78
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 390
+        width: 72
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5963109, y: 0.056923937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fd0fbe0a2691344aec0f18d5be258c
+      internalID: 213057350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_79
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 401
+        width: 84
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5949351, y: 0.46039718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7deb007e715e1042be4e4d8dd25642c
+      internalID: -1321725365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_80
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 411
+        width: 43
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5241905, y: 0.35365295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf271d9eeb834e4aa03899eed614974
+      internalID: 2001329577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_81
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 408
+        width: 49
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.041605834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c642b8152371a4ca9af1f6781c4257
+      internalID: -1682701025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_82
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 401
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: 0.66275364, y: 0.15666378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105aa4ca099840d41a889ec9449b021a
+      internalID: -1854224836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_84
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 410
+        width: 54
+        height: 39
+      alignment: 9
+      pivot: {x: 0.59409815, y: 0.090201356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a55ab8cef9cfe44ad5206b285d9ec2
+      internalID: -349753642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_85
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 395
+        width: 39
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5394428, y: 0.40758142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee0b96409018c94d849cec28bba2e86
+      internalID: -696617143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_87
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 266
+        width: 95
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5077267, y: 0.11469841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa68cc375be903b4ead4eab5874530e4
+      internalID: -293079864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 280
+        width: 38
+        height: 58
+      alignment: 9
+      pivot: {x: 0.66419744, y: 0.075938255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36977391ed8e82c469645a4934b7b0c5
+      internalID: -549371212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 308
+        width: 84
+        height: 37
+      alignment: 9
+      pivot: {x: 0.52184695, y: 0.43647146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f4499f7402f9d4db4aff70a470184c
+      internalID: -1616963483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_90
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 297
+        width: 71
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50850236, y: 0.43391657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbb461bf2712da4bad7b08a5e4c628c
+      internalID: -1392462928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_91
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 310
+        width: 68
+        height: 36
+      alignment: 9
+      pivot: {x: 0.56725264, y: 0.38109672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62879bc97f2672944b090a6925684d8e
+      internalID: 418872175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_92
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 296
+        width: 41
+        height: 45
+      alignment: 9
+      pivot: {x: 0.76702136, y: 0.08586562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e60ac18c6e486e45885c02ebe5a3d82
+      internalID: 1873541138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_93
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 321
+        width: 49
+        height: 41
+      alignment: 9
+      pivot: {x: 0.64560246, y: 0.0994352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03cdee1707dde14bb5199732b500431
+      internalID: 310189056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_94
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 343
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.54236966, y: 0.080737434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad24360272d0740a41422be9d99e6d
+      internalID: -1193154650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_95
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 181
+        width: 178
+        height: 153
+      alignment: 9
+      pivot: {x: 0.49037153, y: 0.2575882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9dbd2026f2f8e4d9a972b28e0b639c
+      internalID: -1557324932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_97
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 288
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f904f6960e0164fb9d20942b8d9dee
+      internalID: -1126401410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_98
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 269
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5864441, y: 0.14257431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f52892656f33aa40894abaefe43f8a7
+      internalID: 76927963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_100
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 250
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6000506, y: 0.17259073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d98dd076654a48a073767b9430077
+      internalID: -364032876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_101
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 253
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7198446, y: 0.08636831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15abe76ff8fc17b4b85ee39361b89024
+      internalID: 782620539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_104
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 169
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5584345, y: 0.4093495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cfb347f056bf3469d5b19934820126
+      internalID: 1452593955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_106
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 170
+        width: 90
+        height: 63
+      alignment: 9
+      pivot: {x: 0.68606806, y: 0.454833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b9036c87eebb4a862cfc64d2ecfda
+      internalID: 1753854510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_107
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 193
+        width: 53
+        height: 30
+      alignment: 9
+      pivot: {x: 0.57284486, y: 0.34318134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717bd2ca740710f4e8b86ef52a68251d
+      internalID: 812437096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_111
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 191
+        width: 50
+        height: 34
+      alignment: 9
+      pivot: {x: 0.62864745, y: 0.45945695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86eeaf4a618f3b4fbbe198d7d34059c
+      internalID: 884028719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_112
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 205
+        width: 38
+        height: 22
+      alignment: 9
+      pivot: {x: 0.7388402, y: 0.4512884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fde2f46a0b19748903878f5d711745
+      internalID: -1985380989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_117
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 127
+        width: 85
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5108104, y: 0.37110168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8ae554941dd543827547af57970dc
+      internalID: 2102989714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_118
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 32
+        width: 106
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5340228, y: 0.45079923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a15fe94e728cf4a95dc6f62536ab28
+      internalID: -1703309790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_119
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 31
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5924718, y: 0.40291107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92a1dc84aad88849b1791c0cdea23b1
+      internalID: 641313686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_124
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 90
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6836899, y: 0.2900377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45340c89542b23a4ab8e175c617d5be3
+      internalID: 327559773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_125
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 35
+        width: 181
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5374776, y: 0.45457995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ba0e0a3e240f04c81886fd1908e6c2
+      internalID: 1194393007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_134
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 38
+        width: 34
+        height: 21
+      alignment: 9
+      pivot: {x: 0.6933558, y: 0.46037984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f806da8a9455549829be02a61fe421
+      internalID: -1096096094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_83
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 161
+        width: 81
+        height: 88
+      alignment: 9
+      pivot: {x: 0.49999776, y: 0.4613814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ca2a1052fc5174886a265260dd9428
+      internalID: -580264436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_96
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 34
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5211942, y: 0.38379508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c703a62d9b523140970531973a84949
+      internalID: -2021191646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 34
+        width: 126
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5613321, y: 0.41667712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e016d9d57543bc488220b17b7eb5852
+      internalID: -358673218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ForgottenForest_Plants_54
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 324
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5988324, y: 0.08875395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31368197700432d49999bb869b05200d
+      internalID: -205748691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite_ForgottenForest_Plants_102: -398376715
+      Sprite_ForgottenForest_Plants_114: 2004972441
+      Sprite_ForgottenForest_Plants_25: -1120375190
+      Sprite_ForgottenForest_Plants_79: -1321725365
+      Sprite_ForgottenForest_Plants_128: -3117157
+      Sprite_ForgottenForest_Plants_130: -1895436711
+      Sprite_ForgottenForest_Plants_22: -2083328507
+      Sprite_ForgottenForest_Plants_51: -233253239
+      Sprite_ForgottenForest_Plants_68: 1285816654
+      Sprite_ForgottenForest_Plants_2: -1210890368
+      Sprite_ForgottenForest_Plants_26: -1768618688
+      Sprite_ForgottenForest_Plants_72: 1971593399
+      Sprite_ForgottenForest_Plants_3: -847223442
+      Sprite_ForgottenForest_Plants_15: 1687836334
+      Sprite_ForgottenForest_Plants_92: 1873541138
+      Sprite_ForgottenForest_Plants_41: -352257188
+      Sprite_ForgottenForest_Plants_10: 1829726625
+      Sprite_ForgottenForest_Plants_134: -1096096094
+      Sprite_ForgottenForest_Plants_118: -1703309790
+      Sprite_ForgottenForest_Plants_9: 1006144577
+      Sprite_ForgottenForest_Plants_4: 1036787296
+      Sprite_ForgottenForest_Plants_17: 761143052
+      Sprite_ForgottenForest_Plants_83: -580264436
+      Sprite_ForgottenForest_Plants_109: 1625234013
+      Sprite_ForgottenForest_Plants_32: 625871308
+      Sprite_ForgottenForest_Plants_1: 1269244836
+      Sprite_ForgottenForest_Plants_85: -696617143
+      Sprite_ForgottenForest_Plants_120: -430646954
+      Sprite_ForgottenForest_Plants_117: 2102989714
+      Sprite_ForgottenForest_Plants_88: -549371212
+      Sprite_ForgottenForest_Plants_122: -2057521933
+      Sprite_ForgottenForest_Plants_87: -293079864
+      Sprite_ForgottenForest_Plants_62: -1164988947
+      Sprite_ForgottenForest_Plants_123: 1329691243
+      Sprite_ForgottenForest_Plants_93: 310189056
+      Sprite_ForgottenForest_Plants_12: -876350351
+      Sprite_ForgottenForest_Plants_66: -1014147770
+      Sprite_ForgottenForest_Plants_38: 1424313344
+      Sprite_ForgottenForest_Plants_97: -1126401410
+      Sprite_ForgottenForest_Plants_5: -1495030248
+      Sprite_ForgottenForest_Plants_89: -1616963483
+      Sprite_ForgottenForest_Plants_60: 1033472249
+      Sprite_ForgottenForest_Plants_21: 476811438
+      Sprite_ForgottenForest_Plants_56: -1478181261
+      Sprite_ForgottenForest_Plants_47: -358673218
+      Sprite_ForgottenForest_Plants_20: 51768552
+      Sprite_ForgottenForest_Plants_35: -1239771041
+      Sprite_ForgottenForest_Plants_101: 782620539
+      Sprite_ForgottenForest_Plants_127: -192610588
+      Sprite_ForgottenForest_Plants_52: -1307522002
+      Sprite_ForgottenForest_Plants_78: 213057350
+      Sprite_ForgottenForest_Plants_84: -349753642
+      Sprite_ForgottenForest_Plants_13: -2097837983
+      Sprite_ForgottenForest_Plants_104: 1452593955
+      Sprite_ForgottenForest_Plants_99: 281658658
+      Sprite_ForgottenForest_Plants_80: 2001329577
+      Sprite_ForgottenForest_Plants_39: -113480296
+      Sprite_ForgottenForest_Plants_132: -103377012
+      Sprite_ForgottenForest_Plants_129: -1436448196
+      Sprite_ForgottenForest_Plants_8: 572875535
+      Sprite_ForgottenForest_Plants_14: 1865667225
+      Sprite_ForgottenForest_Plants_24: 1862910109
+      Sprite_ForgottenForest_Plants_64: 717751995
+      Sprite_ForgottenForest_Plants_96: -2021191646
+      Sprite_ForgottenForest_Plants_77: -2053683539
+      Sprite_ForgottenForest_Plants_107: 812437096
+      Sprite_ForgottenForest_Plants_121: 612218494
+      Sprite_ForgottenForest_Plants_106: 1753854510
+      Sprite_ForgottenForest_Plants_36: -887251196
+      Sprite_ForgottenForest_Plants_58: 84483879
+      Sprite_ForgottenForest_Plants_71: -813568535
+      Sprite_ForgottenForest_Plants_95: -1557324932
+      Sprite_ForgottenForest_Plants_34: -1653990941
+      Sprite_ForgottenForest_Plants_57: 328808922
+      Sprite_ForgottenForest_Plants_6: 2087213789
+      Sprite_ForgottenForest_Plants_86: 1490870282
+      Sprite_ForgottenForest_Plants_103: -1250226750
+      Sprite_ForgottenForest_Plants_113: 358968252
+      Sprite_ForgottenForest_Plants_50: 537805453
+      Sprite_ForgottenForest_Plants_133: 682033034
+      Sprite_ForgottenForest_Plants_73: 1211584844
+      Sprite_ForgottenForest_Plants_0: -1024522930
+      Sprite_ForgottenForest_Plants_100: -364032876
+      Sprite_ForgottenForest_Plants_135: -1303314307
+      Sprite_ForgottenForest_Plants_76: 697318532
+      Sprite_ForgottenForest_Plants_119: 641313686
+      Sprite_ForgottenForest_Plants_27: -64132471
+      Sprite_ForgottenForest_Plants_30: 1894443601
+      Sprite_ForgottenForest_Plants_125: 1194393007
+      Sprite_ForgottenForest_Plants_46: -161092642
+      Sprite_ForgottenForest_Plants_54: -205748691
+      Sprite_ForgottenForest_Plants_7: -1027682564
+      Sprite_ForgottenForest_Plants_45: 424539274
+      Sprite_ForgottenForest_Plants_49: -1414307761
+      Sprite_ForgottenForest_Plants_75: -2045932380
+      Sprite_ForgottenForest_Plants_40: 1140374171
+      Sprite_ForgottenForest_Plants_31: -1505817815
+      Sprite_ForgottenForest_Plants_91: 418872175
+      Sprite_ForgottenForest_Plants_98: 76927963
+      Sprite_ForgottenForest_Plants_126: 32609082
+      Sprite_ForgottenForest_Plants_112: -1985380989
+      Sprite_ForgottenForest_Plants_53: 26194537
+      Sprite_ForgottenForest_Plants_23: 237162098
+      Sprite_ForgottenForest_Plants_124: 327559773
+      Sprite_ForgottenForest_Plants_28: 875196461
+      Sprite_ForgottenForest_Plants_55: 1843712137
+      Sprite_ForgottenForest_Plants_108: 1715018178
+      Sprite_ForgottenForest_Plants_33: 222606358
+      Sprite_ForgottenForest_Plants_65: 663076621
+      Sprite_ForgottenForest_Plants_90: -1392462928
+      Sprite_ForgottenForest_Plants_63: -1152245714
+      Sprite_ForgottenForest_Plants_43: -2047660695
+      Sprite_ForgottenForest_Plants_81: -1682701025
+      Sprite_ForgottenForest_Plants_59: -1095839330
+      Sprite_ForgottenForest_Plants_131: 878958281
+      Sprite_ForgottenForest_Plants_44: 582170311
+      Sprite_ForgottenForest_Plants_11: 1412323399
+      Sprite_ForgottenForest_Plants_82: -1854224836
+      Sprite_ForgottenForest_Plants_115: 1374114949
+      Sprite_ForgottenForest_Plants_69: -124503966
+      Sprite_ForgottenForest_Plants_116: -1890982220
+      Sprite_ForgottenForest_Plants_16: -1480863825
+      Sprite_ForgottenForest_Plants_29: 1117252233
+      Sprite_ForgottenForest_Plants_105: -906850690
+      Sprite_ForgottenForest_Plants_61: 48362511
+      Sprite_ForgottenForest_Plants_48: 1059131836
+      Sprite_ForgottenForest_Plants_94: -1193154650
+      Sprite_ForgottenForest_Plants_67: 418893860
+      Sprite_ForgottenForest_Plants_19: -1646151749
+      Sprite_ForgottenForest_Plants_74: -1132361651
+      Sprite_ForgottenForest_Plants_111: 884028719
+      Sprite_ForgottenForest_Plants_42: 1919590585
+      Sprite_ForgottenForest_Plants_70: -282769321
+      Sprite_ForgottenForest_Plants_18: 399777154
+      Sprite_ForgottenForest_Plants_37: 471224836
+      Sprite_ForgottenForest_Plants_110: 1265235556
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
