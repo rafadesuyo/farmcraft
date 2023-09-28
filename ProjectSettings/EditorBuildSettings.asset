@@ -6,21 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Project/Scenes/Auth/LoginScene.unity
-    guid: 5e869d785b6490947ad8d7afb044a785
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/_Project/Scenes/Gameflow/01 - InitialScene.unity
-    guid: 5d1ef71b74964c1409ebf41d37f41249
-  - enabled: 1
-    path: Assets/_Project/Scenes/Gameflow/02 - HomeMenu.unity
-    guid: cc24e6cb8d65a0948887f72f5ac70956
-  - enabled: 1
-    path: Assets/_Project/Scenes/Gameflow/LoadingScene.unity
-    guid: 081c1c6850630cc48960d0773e9f2d7e
-  - enabled: 1
-    path: Assets/_Project/Scenes/Gameflow/03 - StageScene.unity
-    guid: d7468cb31396b864c89184e3ea224741
-  - enabled: 1
-    path: Assets/_Project/Scenes/Gameflow/04 - TrialMode.unity
-    guid: 8b8a5fd91eca2e743a15438ed97700e3
+    path: Assets/Scenes/Farm.unity
+    guid: e939cd69a07f1f44a9ed3498e27e70bb
   m_configObjects: {}

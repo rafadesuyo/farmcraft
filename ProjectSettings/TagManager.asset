@@ -3,15 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coin
+  - Wood
+  - Interactable
+  - Upgradable
+  - ChestCoin
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Clickable
+  - 
   - Water
   - UI
-  - InvisibleWalls
+  - 
   - 
   - 
   - 
@@ -38,27 +43,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background_1
-    uniqueID: 103914503
-    locked: 0
-  - name: Background_2
-    uniqueID: 110681369
-    locked: 0
-  - name: Background_3
-    uniqueID: 3316429323
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Foreground_1
-    uniqueID: 2239930097
-    locked: 0
-  - name: Foreground_2
-    uniqueID: 597893675
-    locked: 0
-  - name: Foreground_3
-    uniqueID: 1732611629
-    locked: 0
-  - name: UI
-    uniqueID: 261951509
     locked: 0
